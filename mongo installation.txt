@@ -1,0 +1,7 @@
+C:\Program Files\MongoDB\Server\3.2\bin\mongod.exe --dbpath d:\db\data
+
+
+MONGOD --DBPATH "C:\PROGRAM FILES\MONGODB\SERVER\3.2\DATA"
+
+
+mongod --dbpath "C:\PROGRAM FILES\MONGODB\SERVER\3.2\DATA"
